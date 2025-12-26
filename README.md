@@ -2,6 +2,11 @@
 
 An interactive, high-performance data analytics dashboard designed to decode Netflix's content strategy. This project transforms raw CSV data into actionable insights through a modular Python backend and a sleek Streamlit frontend, featuring real-time IMDb integration via the OMDb API.
 
+## 🚀 Live Demo
+
+👉 Try the interactive dashboard live here:  
+https://netflix-content-analysis-dashboard-3uvgxzpayt4gvnam2uxffl.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
