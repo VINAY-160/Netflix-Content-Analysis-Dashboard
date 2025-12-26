@@ -200,4 +200,5 @@ with tab5:
 
 # ================= FOOTER =================
 st.divider()
-st.caption("📌 Project by Vinay Mishra | Netflix Data Analytics Dashboard")
+st.caption("Built by Vinay Mishra — GitHub: VINAY-160")
+
